@@ -4,3 +4,5 @@ Video Colorization Network with a modified CIC Architecture for temporal coheren
 Youtube video link: https://youtu.be/UFeQ-lUwwL8
 
 <img src="images/arch.jpg" alt="img01" width="1200"/>
+
+# Team project done as part of the Deep Learning course (11-785) at Carnegie Mellon University (Spring 2022)
