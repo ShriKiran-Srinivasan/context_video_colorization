@@ -3,4 +3,4 @@ Video Colorization Network with a modified CIC Architecture for temporal coheren
 
 Youtube video link: https://youtu.be/UFeQ-lUwwL8
 
-<img src="images/network.png" alt="img01" width="1200"/>
+<img src="images/arch.jpeg" alt="img01" width="1200"/>
